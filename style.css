@@ -61,6 +61,7 @@ body {
   @media (max-width: 800px) {
     body {
       align-items: center;
+      height: 800px;
     }
    
     .container {
