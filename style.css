@@ -57,7 +57,7 @@ body {
   .colorp3 > p {
     color:  rgb(230, 71, 95);
   }
-/* 
+
   @media (max-width: 800px) {
     body {
       align-items: center;
@@ -76,6 +76,6 @@ body {
       align-items: center;
       width: 60%;
     }
-  } */
+  }
 
 
