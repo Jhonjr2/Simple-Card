@@ -5,14 +5,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-  }
+}
 
   .card {
     width: 300px;
     border: 1px solid #ccc;
     border-radius: 7px;
     box-shadow: 0 4px 8px rgba(177, 30, 30, 0.1);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .color-card1 {
