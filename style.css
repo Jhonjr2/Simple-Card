@@ -64,17 +64,21 @@ body {
     }
    
     .container {
+        display: flex;
+        align-items: center;
         width: 100%;
     }
    
     .card {
       width: 100%; 
+      margin-bottom: 20px;
     }
 
     .card-container {
       flex-direction: column;
       align-items: center;
       width: 60%;
+     
     }
   }
 
